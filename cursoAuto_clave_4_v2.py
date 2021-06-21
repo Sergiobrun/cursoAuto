@@ -11,7 +11,7 @@ def calc_precio(marca, puertas):
     return precio
 
 
-#preguntas
+#preguntas que van a hacersele al cliente
 
 mas_pedidos = 'Si'
 
